@@ -11,12 +11,7 @@ Created by Ricardo Correia for the Home Assistant Brazil community.
 * Animated icons for the weather forecast card;
 * And a bonus automatic theme selector for your interface with Node-RED.
 
-I want to ask only 2 things if you like my work:
 
-1) Contribute to my work! [Buy Me A Coffee](https://www.buymeacoffee.com/orickcorreia)
-2) Follow my creative studio on instagram: [caule.studio](http://caule.studio)
-
-Make good use of themes ☺️
 
 <img src="https://github.com/orickcorreia/caule-themes-pack-1/blob/master/docs/pack.gif?raw=true">
 
