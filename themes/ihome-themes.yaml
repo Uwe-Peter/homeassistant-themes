@@ -1184,7 +1184,6 @@ ihome Black Yellow Image:
   sidebar-selected-icon-color: var(--ihome-light-primary-color)
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Farben der Icons
-  state-switch-off-color: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
   state-switch-on-color: var(--ihome-state-switch-on-color)
   state-icon-color: var(--ihome-disabled-color)
   state-icon-active-color: var(--ihome-primary-color)
