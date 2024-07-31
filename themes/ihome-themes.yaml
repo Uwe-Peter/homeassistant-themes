@@ -1,6 +1,8 @@
+##########################################
+
 ihome Black Blue:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/blue.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/blue.jpg") fixed'
   ihome-ha-card-header-color: "#009bb5"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#009bb5"
@@ -76,21 +78,21 @@ ihome Black Blue:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -125,7 +127,7 @@ ihome Black Blue:
 
 ihome Dark Blue:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/blue.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/blue.jpg") fixed'
   ihome-ha-card-header-color: "#009bb5"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#009bb5"
@@ -201,21 +203,21 @@ ihome Dark Blue:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -250,7 +252,7 @@ ihome Dark Blue:
 
 ihome Light Blue:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/blue.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/blue.jpg") fixed'
   ihome-ha-card-header-color: "#009bb5"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#009bb5"
@@ -326,21 +328,21 @@ ihome Light Blue:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -375,7 +377,7 @@ ihome Light Blue:
 
 ihome Black Blue Glass:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/blue.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/blue.jpg") fixed'
   ihome-ha-card-header-color: "#009bb5"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#009bb5"
@@ -455,21 +457,21 @@ ihome Black Blue Glass:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   ha-card-border-width: var(--ihome-ha-card-border-width)
@@ -505,7 +507,7 @@ ihome Black Blue Glass:
 
 ihome Black Blue Image:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/blue-kachel.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/images/blue-kachel.jpg") fixed'
   ihome-ha-card-header-color: "#009bb5"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#009bb5"
@@ -585,21 +587,21 @@ ihome Black Blue Image:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   ha-card-border-width: var(--ihome-ha-card-border-width)
@@ -633,15 +635,9 @@ ihome Black Blue Image:
 
 ##########################################
 
-
-
-
-
-
-
 ihome Black Yellow:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/yellow.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/yellow.jpg") fixed'
   ihome-ha-card-header-color: "#d6a245"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#d6a245"
@@ -717,21 +713,21 @@ ihome Black Yellow:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -766,7 +762,7 @@ ihome Black Yellow:
 
 ihome Dark Yellow:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/yellow.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/yellow.jpg") fixed'
   ihome-ha-card-header-color: "#d6a245"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#d6a245"
@@ -842,21 +838,21 @@ ihome Dark Yellow:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -891,7 +887,7 @@ ihome Dark Yellow:
 
 ihome Light Yellow:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/yellow.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/yellow.jpg") fixed'
   ihome-ha-card-header-color: "#d6a245"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#d6a245"
@@ -967,21 +963,21 @@ ihome Light Yellow:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   # HACS
@@ -1016,7 +1012,7 @@ ihome Light Yellow:
 
 ihome Black Yellow Glass:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/yellow.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/color/yellow.jpg") fixed'
   ihome-ha-card-header-color: "#d6a245"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#d6a245"
@@ -1096,21 +1092,21 @@ ihome Black Yellow Glass:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   ha-card-border-width: var(--ihome-ha-card-border-width)
@@ -1146,7 +1142,7 @@ ihome Black Yellow Glass:
 
 ihome Black Yellow Image:
 
-  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/yellow-kachel.jpg") fixed'
+  ihome-lovelace-background: 'center / cover no-repeat url("/hacsfiles/themes/ihome-themes/backgrounds/images/yellow-kachel.jpg") fixed'
   ihome-ha-card-header-color: "#d6a245"
   ihome-ha-card-border-radius: 8px
   ihome-primary-color: "#d6a245"
@@ -1226,21 +1222,21 @@ ihome Black Yellow Image:
   table-row-alternative-background-color: var(--ihome-primary-background-color)
   card-background-color: var(--ihome-primary-background-color)
   # Animierte icons
-  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/clear-night.svg")
-  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/cloudy.svg")
-  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/fog.svg")
-  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/lightning.svg")
-  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/lightning-rainy.svg")
-  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/partlycloudy.svg")
-  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/pouring.svg")
-  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/rainy.svg")
-  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/hail.svg")
-  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/snowy.svg")
-  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/snowy-rainy.svg")
-  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/sunny.svg")
-  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/windy.svg")
-  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/windy-variant.svg")
-  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/exceptional.svg")
+  weather-icon-clear-night: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/clear-night.svg")
+  weather-icon-cloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/cloudy.svg")
+  weather-icon-fog: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/fog.svg")
+  weather-icon-lightning: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning.svg")
+  weather-icon-lightning-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/lightning-rainy.svg")
+  weather-icon-partlycloudy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/partlycloudy.svg")
+  weather-icon-pouring: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/pouring.svg")
+  weather-icon-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/rainy.svg")
+  weather-icon-hail: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/hail.svg")
+  weather-icon-snowy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy.svg")
+  weather-icon-snowy-rainy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/snowy-rainy.svg")
+  weather-icon-sunny: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/sunny.svg")
+  weather-icon-windy: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy.svg")
+  weather-icon-windy-variant: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/windy-variant.svg")
+  weather-icon-exceptional: url("/hacsfiles/themes/ihome-themes/animierte-icons/weather/exceptional.svg")
   # Schatten
   ha-card-box-shadow: var(--ihome-ha-card-box-shadow)
   ha-card-border-width: var(--ihome-ha-card-border-width)
