@@ -1,4 +1,4 @@
 ---
 
 yaml-files:
-  - "themes/ihome-themes.yaml"
+  - "config/www/themes/ihome-themes.yaml"
