@@ -1,1 +1,10 @@
+{
+  "domain": "ihome_integration",
+  "name": "IHOME Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/my_homeassistant_dashboard#readme",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": []
+}
 
