@@ -3,3 +3,21 @@
   "filename": "ihome-themes.yaml",
   "render_readme": false
 }
+
+
+
+{
+  "info": {
+    "name": "IHOME Integration",
+    "project_url": "https://github.com/yourusername/my_homeassistant_dashboard",
+    "repository": "yourusername/my_homeassistant_dashboard",
+    "keywords": [],
+    "description": "Eine kurze Beschreibung deiner Integration."
+  },
+  "hacs": {
+    "enabled": true,
+    "options": {},
+    "install_type": "repository",
+    "category": "integration"
+  }
+}
