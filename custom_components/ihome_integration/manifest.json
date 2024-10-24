@@ -2,9 +2,9 @@
   "domain": "ihome_integration",
   "name": "IHOME Integration",
   "version": "1.0.0",
-  "documentation": "https://github.com/yourusername/my_homeassistant_dashboard#readme",
+  "documentation": "https://github.com/Uwe-Peter/homeassistant-themes#readme",
   "dependencies": [],
-  "codeowners": ["@yourusername"],
+  "codeowners": ["@yuwe-peter"],
   "requirements": []
 }
 
