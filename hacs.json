@@ -1,12 +1,4 @@
 {
-  "name": "Themes - by ihome",
-  "filename": "ihome-themes.yaml",
-  "render_readme": false
-}
-
-
-
-{
   "info": {
     "name": "IHOME Integration",
     "project_url": "https://github.com/Uwe-Peter/homeassistant-themes",
